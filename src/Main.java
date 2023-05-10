@@ -4,7 +4,11 @@ public class Main {
         // değişkenleri oluştur
 
         int mat, fizik, kimya, turkce, muzik, tarih;
-        
+
+
+        testing
+
+
         // scanner sınıfımızı tanımladık
         Scanner input = new Scanner(System.in);
 
